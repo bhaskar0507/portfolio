@@ -45,7 +45,7 @@ const Home = ({ history }) => {
                   <br />
                   <br />
                   <span className="color-customBlueLight h5">
-                  I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not pushing codes, you'll find me cooking, chilling out with friends or working out in the gym.
+                  I enjoy turning complex problems into simple. When I'm not pushing codes, you'll find me cooking, chilling out with friends or working out in the gym.
                   </span>
                   <br />
                 </div>

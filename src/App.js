@@ -7,6 +7,7 @@ import Projects from "./Modules/Projects";
 import Contact from "./Modules/Contact";
 
 function App() {
+  const baseUrl = process.env.REACT_APP_BASE_URL
   return (
     <BrowserRouter>
       <Switch>
