@@ -20,7 +20,7 @@ const Skills = () => {
   return (
     <>
       <CustomNav />
-      <Container className={`mt-5 ${imgContainerWidthClass}  `}>
+      <Container  className={`mt-5 ${imgContainerWidthClass}  `}>
         <h2 className={`color-customBlue text-boldest ${headingMargin}`}>
           Front End
         </h2>

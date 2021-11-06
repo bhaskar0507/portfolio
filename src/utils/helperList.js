@@ -103,7 +103,7 @@ export const projectsList = [
   {
     label: "Pepperfry Clone",
     imgSrc: "images/pepperfry.jpg",
-    src: "#",
+    src: "https://pepperfrywebsite.herokuapp.com/products/home",
     githubSrc: "https://github.com/Tarun3165/pepperfryBackend",
     description: "An E-commerce website of furniture with all MVP features",
     stack: ["Javascript", "HTML","CSS", "Express", "Mongoose", "Node.js", "Material-UI"],
