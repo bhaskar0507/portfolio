@@ -14,8 +14,10 @@ const IconCard = ({ src, skillName }) => {
       <div
         className="d-flex justify-content-center align-items-center m-2  skillWraper"
         style={{
-          width: 190,
-          height: 190,
+          width: 150,
+          height: 150,
+          // border: "1px solid blue",
+          boxShadow: "0px 0px 4px 4px #5085b9"
         }}
         // style={{ background: `url(${src}) no-repeat center center`, width: 150, height: 150 }}
       >
