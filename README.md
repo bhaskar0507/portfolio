@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=AleemAlam.AleemAlam) -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AleemAlam&label=Profile%20views&color=0e75b6&style=flat" alt="MangeshLandge" /> </p> -->
 
-## Available Scripts
+<a href="#"><img width="100%" height="auto" src="./Images/full-stack-development.gif" height="175px"/></a>
 
-In the project directory, you can run:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhaskar Rai</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
 
-### `npm start`
+<p align= "center">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## :man-raising-hand: About Me
 
-### `npm test`
+:seedling: **I'm currently learning :** Full Stack Web Development
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+:handshake: I'm looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-### `npm run build`
+:speech_balloon: **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+:goal_net: **2021 Goals :** Learning new things and contribute more
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- :mailbox: You can reach me at [chat](mailto:AleemAlamwsu@gmail.com)! -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :rocket: Languages and Tools:
 
-### `npm run eject`
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>    
+    <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> --> 
+    <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+      <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
+</p>
+<br/>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+if you like what i do, maybe consider buying me a coffee/tea :pleading_face::point_right::point_left:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a href="https://www.buymeacoffee.com/AleemAlam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p align="center">
+    <a href="https://github.com/AleemAlam/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Bhaskar Rai's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AleemAlam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  <p align="center">
+    <a href="https://github.com/AleemAlam/github-readme-stats"><img alt="Bhaskar Rai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AleemAlam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+    <!-- <p align="center">
+  <a href="https://github.com/AleemAlam/github-readme-stats"><img alt="Bhaskar Rai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleemAlam&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleemAlam&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    </p>
 
-## Learn More
+  <!-- <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleemAlam&show_icons=true&locale=en&layout=compact" alt="AleemAlam"/>
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AleemAlam&show_icons=true&locale=en" alt="AleemAlam" /></p> -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-### Code Splitting
+<br/>
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<a href="https://github.com/AleemAlam/github-readme-activity-graph"><img alt="Bhaskar Rai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AleemAlam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-### Analyzing the Bundle Size
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Connect with me:
 
-### Making a Progressive Web App
+<p align="left">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<a href = "https://www.linkedin.com/in/bhaskar-rai-0a06241a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/bhaskar9893"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/bhaskar_the_multitasker/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-### Advanced Configuration
+<!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+</p>
 
-### Deployment
+## ❤ Views and Followers
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- <a href="https://github.com/AleemAlam/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AleemAlam">
+</a> -->
+<a href="https://github.com/bhaskar0507?tab=followers"><img src="https://img.shields.io/github/followers/AleemAlam?label=Followers&style=social" alt="GitHub Badge"></a>
