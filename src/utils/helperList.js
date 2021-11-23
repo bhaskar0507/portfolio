@@ -116,5 +116,14 @@ export const projectsList = [
     description: "A fantasy league cricket website,  where users can see scores and also read articles on cricket",
     stack: ["HTML", "CSS", "Javascript", "Github"],
   },
+
+  {
+    label: "Pinterest.Com Clone",
+    imgSrc: "images/pinterest.png",
+    src: "https://pinterest-clone-indol.vercel.app/",
+    githubSrc: "https://github.com/AlbartJose/pinterest_clone",
+    description: "Pinterest is an image sharing and social media service designed to enable saving and discovery of information on the internet using images.",
+    stack: ["Reactjs","Express","Nodejs","HTML", "CSS", "Javascript","Github"],
+  }
  
 ];
