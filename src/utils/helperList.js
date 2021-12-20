@@ -66,10 +66,7 @@ export const frontSkillsList = [
     label: "NPM",
     src: "https://img.icons8.com/color/480/000000/npm.png",
   },
-  {
-    label: "Yarn",
-    src: "https://i.ibb.co/GtbG98V/yarn2.png",
-  },
+  
 ];
 
 export const backSkillsList = [
@@ -88,15 +85,9 @@ export const backSkillsList = [
   {
     label: "My Sql",
     src: "https://img.icons8.com/fluent/480/000000/mysql-logo.png",
-  },
-  {
-    label: "Firebase",
-    src: "https://img.icons8.com/color/480/000000/firebase.png",
-  },
-  {
-    label: "Redis",
-    src: "https://img.icons8.com/color/480/000000/redis.png",
-  },
+  }
+ 
+ 
 ];
 
 export const projectsList = [
